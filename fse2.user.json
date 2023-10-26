@@ -1,0 +1,12 @@
+[{
+  "_id": "admin@skillmind.com",
+  "password": "$2a$10$kVBP41zRd4G6UGwWsHQdxeRJ18LNcLLNnGag.jdookvC6r89aV7zm",
+  "role": "admin",
+  "_class": "com.lms.authservice.entity.UserDet"
+},
+{
+  "_id": "skj@skj.com",
+  "password": "$2a$10$TgCti.pLk2g55uMFBRGAM.WFe36ARBUzDXL.qxONnHp72pb.qzyvu",
+  "role": "user",
+  "_class": "com.lms.authservice.entity.UserDet"
+}]

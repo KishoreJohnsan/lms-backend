@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "653956ca966254744ddc0bdd"
+  },
+  "name": "React - The Complete Guide",
+  "technology": "Web",
+  "duration": "3",
+  "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395774966254744ddc0bdf"
+  },
+  "name": "Modern React with Redux",
+  "technology": "Web",
+  "duration": "1",
+  "description": "Master React and Redux Toolkit. Includes RTK Query, tons of custom hooks, and more!",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395793966254744ddc0be0"
+  },
+  "name": "React Front To Back",
+  "technology": "Web",
+  "duration": "5",
+  "description": "Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653957dc966254744ddc0be1"
+  },
+  "name": "Angular - The Complete Guide",
+  "technology": "Web",
+  "duration": "3",
+  "description": "Master Angular and build awesome, reactive web apps with the successor of Angular.js",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653957f5966254744ddc0be2"
+  },
+  "name": "The Modern Angular Bootcamp",
+  "technology": "Web",
+  "duration": "6",
+  "description": "Get job ready with Angular! Understand how to build and deploy production-ready apps.",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395816966254744ddc0be3"
+  },
+  "name": "Learn Angular From Scratch ",
+  "technology": "Web",
+  "duration": "5",
+  "description": "Master Angular Frontend Framework and Learn to build a Complete Modern World App From Scratch using Bootstrap, Firestore",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395868966254744ddc0be4"
+  },
+  "name": "Introduction to Cloud Computing on AWS for Beginners",
+  "technology": "Cloud",
+  "duration": "2",
+  "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "6539587f966254744ddc0be5"
+  },
+  "name": "AWS Essentials",
+  "technology": "Cloud",
+  "duration": "1",
+  "description": "Learn from AWS technical instructors about the AWS Platform, global infrastructure, security, and the core services.",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653958b6966254744ddc0be6"
+  },
+  "name": "Microsoft Azure: From Zero to Hero - The Complete Guide",
+  "technology": "Cloud",
+  "duration": "5",
+  "description": "Become an Azure Expert! Learn to design and build modern cloud apps from a certified Azure Architect",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653958cf966254744ddc0be7"
+  },
+  "name": "Microsoft Azure - Beginner's Guide",
+  "technology": "Cloud",
+  "duration": "1",
+  "description": "Beginning your journey on Microsoft Azure",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653958f6966254744ddc0be8"
+  },
+  "name": "Google Cloud Platform (GCP) Fundamentals for Beginners",
+  "technology": "Cloud",
+  "duration": "2",
+  "description": "Learn How to Use Key GCP Services From the Ground Up Through Hands-On Demos and Detailed Use Cases!",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395915966254744ddc0be9"
+  },
+  "name": "GCP for AWS Professionals",
+  "technology": "Cloud",
+  "duration": "1",
+  "description": "Learn Google Cloud Platform ( GCP ) quickly using your AWS knowledge.",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "6539594c966254744ddc0bea"
+  },
+  "name": "Java Programming for Complete Beginners",
+  "technology": "Backend",
+  "duration": "2",
+  "description": "Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "65395965966254744ddc0beb"
+  },
+  "name": "The Complete Java Development Bootcamp",
+  "technology": "Backend",
+  "duration": "6",
+  "description": "Become an Experienced Java Developer with Just One Course. Fully Updated with 100+ Coding Challenges!",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+},
+{
+  "_id": {
+    "$oid": "653a6f0f727c085ef325d27c"
+  },
+  "name": "The Complete Java Development Bootcamp",
+  "technology": "Backend",
+  "duration": "2",
+  "description": "Become an Experienced Java Developer with Just One Course. Fully Updated with 100+ Coding Challenges!",
+  "url": "#",
+  "_class": "com.lms.courseservice.entity.Course"
+}]
