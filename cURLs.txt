@@ -1,0 +1,46 @@
+curl --request POST \
+  --url http://localhost:3000/api/v1/lms/courses \
+  --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBza2lsbG1pbmQuY29tIiwiaWF0IjoxNjk4MzI4Mjg4LCJleHAiOjE2OTgzMzE4ODh9.OIRVdMOXOMIj0wj-Y7UaZ2PfzX4DpnHOsTM9SwuByLo' \
+  --header 'Content-Type: application/json' \
+  --data '{  
+  "name": "The Complete Java Development Bootcamp",
+  "technology": "Backend",
+  "duration": "2",
+	"description":"Become an Experienced Java Developer with Just One Course. Fully Updated with 100+ Coding Challenges!",
+	"url":"#"
+}'
+
+curl --request GET \
+  --url http://localhost:3000/api/v1/lms/courses/getall
+  
+curl --request GET \
+  --url http://localhost:3000/api/v1/lms/courses/653956ca966254744ddc0bdd
+  
+curl --request GET \
+  --url http://localhost:3000/api/v1/lms/courses/name/react
+  
+curl --request GET \
+  --url http://localhost:3000/api/v1/lms/courses/info/clo
+  
+curl --request GET \
+  --url http://localhost:3000/api/v1/lms/courses/get/clo/0/1
+  
+curl --request DELETE \
+  --url http://localhost:3000/api/v1/lms/courses/65395560966254744ddc0dc \
+  --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBza2lsbG1pbmQuY29tIiwiaWF0IjoxNjk4MzI4Mjg4LCJleHAiOjE2OTgzMzE4ODh9.OIRVdMOXOMIj0wj-Y7UaZ2PfzX4DpnHOsTM9SwuByLo'
+  
+curl --request POST \
+  --url http://localhost:3000/api/v1/lms/authenticate \
+  --header 'Content-Type: application/json' \
+  --data '{
+	"email":"admin@skillmind.com",
+	"password":"admin"
+}'
+
+curl --request POST \
+  --url http://localhost:3000/api/v1/lms/register \
+  --header 'Content-Type: application/json' \
+  --data '{
+	"email":"skj@skj.com",
+	"password":"skj"	
+}'
